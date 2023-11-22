@@ -1,4 +1,5 @@
 # 💫 About Me:
+Hello! My name is Tiago Cardoso, and I am 20 years old. I am currently in the last year of my degree in Computer Engineering.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tiago-cardoso-01301a282) 
