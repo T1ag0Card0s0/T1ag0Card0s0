@@ -30,8 +30,6 @@ Hello, my name is Tiago and I am an embedded systems enthusiast.
 ![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white) 
 ![Make](https://img.shields.io/badge/Make-FF6F00?style=for-the-badge&logo=gnu&logoColor=white) 
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white) 
-![KiCad](https://img.shields.io/badge/KiCad-4CAF50?style=for-the-badge&logo=kicad&logoColor=white) 
-![Quartus](https://img.shields.io/badge/Quartus-0071C5?style=for-the-badge&logo=altera&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ### Databases
